@@ -50,9 +50,9 @@ Para preparar o ambiente para criação de documentação execute o seguinte com
 npm install --save-dev jsdoc
 ```
 
-Crie as pastas "src" e "__tests__".
+Crie as pastas "src" e "\_\_tests\_\_".
 A pasta src deverá ser utilizada para armezenar seu código.
-A pasta "__tests__" deverá ser usada para armazenar seus arquivos de teste"
+A pasta "\_\_tests\_\_" deverá ser usada para armazenar seus arquivos de teste".
 
 Crie o arquivo jsdoc.json e adicione as informações abaixo no arquivo:
 ```
